@@ -1,5 +1,11 @@
-import React from "react";
+import React from 'react';
 
-export const Basket = () => {
-  return <div>Basket</div>;
+const Basket = () => {
+    return (
+        <div>
+            basket
+        </div>
+    );
 };
+
+export default Basket;
